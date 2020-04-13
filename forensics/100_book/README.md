@@ -24,6 +24,6 @@ Author:
 
 	[keva] sea-kg
 	
-Solve by author:
+Solution:
 
-* just run command `strings forensics100.iso | grep flag`
+* `strings forensics100.iso | grep flag`
