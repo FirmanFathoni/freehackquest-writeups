@@ -26,4 +26,4 @@ Author:
 	
 Solution:
 
-* Opening the file `file011` as video
+* Opening the file `file011` as the video
