@@ -25,8 +25,8 @@ Author:
 
 	[keva] sea-kg
 
-Solve by author:
+Solution:
 
-* Search in logs admin100
-* Open this page
-* Flag is forensicsandadminsclose
+* Searching in logs for `admin100`
+* Opening this page
+* Flag: forensicsandadminsclose
