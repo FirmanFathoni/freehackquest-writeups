@@ -29,6 +29,6 @@ Author:
 
 Solve by author:
 
-* This is substitution cipher
-* Calc frequency or try to guess
-* Flag is alicerulezz
+* Detecting the cipher type: `substitution cipher`
+* Calculating the frequency
+* Flag: alicerulezz
