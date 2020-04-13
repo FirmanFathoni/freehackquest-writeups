@@ -27,9 +27,9 @@ Author:
 
 	[keva] f0X
 
-Solve by author:
+Solution:
 
-* deobfuscate JS
-* find a piece of code to decode base64 login/pass
-* decrypt login/pass, using a modified key 
-* flag is it_was_easy
+* Deobfuscating the JS
+* Finding the piece of code to decode the base64 `login/pass`
+* Decrypting the `login/pass`, using the modified key 
+* Flag: it_was_easy
