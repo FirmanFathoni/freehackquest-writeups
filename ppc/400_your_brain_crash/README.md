@@ -74,7 +74,7 @@ d = zlib.decompress(c)
 print(d)
 ```
 
-* 
+* Running the code:
 
 ```
 ./your_brain_step2.py 
