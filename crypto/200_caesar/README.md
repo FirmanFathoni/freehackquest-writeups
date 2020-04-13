@@ -27,9 +27,9 @@ Author:
 
 	[keva] firolunis
 
-Solve by author:
+Solution:
 
-* Detect cipher: caesar
-* Bruteforce
-* Find sensible text: flagisfhqcryptosimple
-* Flag is fhqcryptosimple
+* Detecting the cipher type: `caesar`
+* Making the bruteforce attack
+* Finding the sensible text: `flagisfhqcryptosimple`
+* Flag: fhqcryptosimple
