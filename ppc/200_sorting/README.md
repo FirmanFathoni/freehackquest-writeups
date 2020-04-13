@@ -31,7 +31,3 @@ Answer:
 Author:
 
 	[keva] sea-kg
-
-Solve by author:
-
-* create special program for paint this numbers like coordinates
