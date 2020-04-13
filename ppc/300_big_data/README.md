@@ -31,9 +31,7 @@ Author:
 
 Solve by author:
 
-* Write script to sum all numbers from file
-* Realize that result is bytes sequence and add leading zero
-* Convert bytes to string
-* Realize that string is base64
-* Decode base64
-* Flag is BIGdataIScool
+* Making the script to sum all the numbers from the file
+* Converting the bytes to the string
+* Decoding base64
+* Flag: BIGdataIScool
