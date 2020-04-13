@@ -27,7 +27,7 @@ Author:
 
 	[keva] firolunis
 
-Solve by author:
+Solution:
 
 * Detecting the cipher type: `substitution cipher`
 * Calculating the frequency
