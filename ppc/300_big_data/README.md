@@ -29,9 +29,9 @@ Author:
 
 	[keva] firolunis
 
-Solve by author:
+Solution:
 
 * Making the script to sum all the numbers from the file
 * Converting the bytes to the string
-* Decoding base64
+* Decoding the base64 string
 * Flag: BIGdataIScool
