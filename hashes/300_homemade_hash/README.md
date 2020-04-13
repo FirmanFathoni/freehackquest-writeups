@@ -57,6 +57,6 @@ Answer:
 	yqqyvqe
 
 
-Solve by author:
+Solution:
 
 * Bruteforcing by the alphabet: `qwertyuiopasdfghjklzxcvbnm`
