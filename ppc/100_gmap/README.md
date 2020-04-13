@@ -25,7 +25,3 @@ RU: Что пытаются вам показать этими цифрами?
 ## Answer
 
 helloalien
-
-## Solve by author
-
-* create special program for paint this numbers like coordinates
