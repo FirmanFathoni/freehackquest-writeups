@@ -47,9 +47,9 @@ sub main {
     @nums = shuffle @nums;
     foreach my $num (@nums) {
         if ($num > 0) {
-            print "+$num ";
+            print("+$num ");
         } else {
-            print "$num ";
+            print("$num ");
         }
     }
     return 0;
