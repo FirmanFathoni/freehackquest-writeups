@@ -27,7 +27,7 @@ Author:
 
 	[keva] sea-kg
 	
-Solve by author:
+Solution:
 
-* Brutforce by alphabet: 0123456789 (~ 1 hour for bruting)
-* Found password: `echo -n 6719856100 | sha1sum`
+* Brutforcing by the alphabet: 0123456789
+* `echo -n 6719856100 | sha1sum`
