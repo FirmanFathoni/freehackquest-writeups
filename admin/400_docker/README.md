@@ -45,7 +45,3 @@ Answer:
 Author:
 
 	[keva] sea-kg
-
-Solve by author:
-
-* "look other/Dockerfile"
