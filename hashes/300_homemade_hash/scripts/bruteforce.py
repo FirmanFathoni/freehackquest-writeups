@@ -19,9 +19,9 @@ for a1 in alphabet:
 								i = i + 1
 								# if i % 100000 == 0:
 									# millis = int(round(time.time() * 1000)) - millis_start
-									# print "speed: %s pass / sec " % (i*1000 / millis)
+									# print("speed: %s pass / sec " % (i*1000 / millis))
 
 								password = "" + a1 + a2 + a3 + a4 + a5 + a6 + a7 + a8
 								shash = hashlib.sha1(password).hexdigest()
 								if shash == "3f0617240f6e8c5608003e4f17b69437072b1042":
-									print password
+									print(password)
