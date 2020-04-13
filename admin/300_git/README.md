@@ -26,7 +26,7 @@ Author:
 
 	[keva] sea-kg
 
-Solve by author:
+Solution:
 
 * `git log --graph --oneline --all`
 * `git show 0d386f2`
