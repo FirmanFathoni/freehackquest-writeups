@@ -34,5 +34,5 @@ Author:
 Solution:
 
 * Detecting the keys: `4dg9uom`
-* Brutforcing by the alphabet: `4dg9uom`
+* Bruteforcing by the alphabet: `4dg9uom`
 * `echo -n god94mug | md5sum`
