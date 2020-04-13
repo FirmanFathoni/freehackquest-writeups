@@ -40,7 +40,7 @@ sub main {
     for (my $i = 1; $i < scalar(@bytes); $i += 2) {
         $b64_flag .= chr(oct("0b".$bytes[$i]));
     }
-    print decode_base64($b64_flag);
+    print(decode_base64($b64_flag));
     return 0;
 }
 
