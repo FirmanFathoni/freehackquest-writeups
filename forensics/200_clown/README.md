@@ -24,6 +24,6 @@ Author:
 
 	[keva] sea-kg
 	
-Solve by author:
+Solution:
 
-* just open file file011 as video
+* Opening the file `file011` as video
