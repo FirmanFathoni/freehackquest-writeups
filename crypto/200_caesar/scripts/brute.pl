@@ -29,10 +29,9 @@ sub main {
         foreach my $char (split //, $ciphertext) {
             print chr($a_code + (ord($char) - $a_code + $i) % $abc_size);
         }
-        print "\n";
+        print("\n");
     }
     return 0;
 }
 
 exit main(shift) unless caller;
-
