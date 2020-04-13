@@ -28,10 +28,3 @@ Answer:
 Author:
 
 	[keva] sea-kg
-
-Solve by author:
-
-* read wiki about xor
-* Download sources from `https://github.com/sea-kg/seakg-hack-xor` or create new program
-* run
-* get flag
