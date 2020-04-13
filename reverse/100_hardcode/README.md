@@ -29,8 +29,8 @@ Author:
 
 	[keva] firolunis
 
-Solve by author:
+Solution:
 
-* Use strings/ida/oda or any hex editor
-* Find sensible text: flagishellomerkel
-* Flag is hellomerkel
+* `strings/ida/oda`
+* Finding the sensible text: `flagishellomerkel`
+* Flag: hellomerkel
