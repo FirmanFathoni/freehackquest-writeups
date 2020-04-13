@@ -59,4 +59,4 @@ Answer:
 
 Solve by author:
 
-* Brutforce by alphabet: qwertyuiopasdfghjklzxcvbnm (~ 17 hour for bruting if speed 1300000 hashes in sec)
+* Bruteforcing by the alphabet: `qwertyuiopasdfghjklzxcvbnm`
