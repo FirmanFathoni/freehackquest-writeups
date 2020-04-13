@@ -31,8 +31,8 @@ Author:
 
 	[keva] sea-kg
 	
-Solve by author:
+Solution:
 
-* Detect keys: 4dg9uom
-* Brutforce by alphabet: 4dg9uom
-* Found password: `echo -n god94mug | md5sum`
+* Detecting the keys: `4dg9uom`
+* Brutforcing by the alphabet: `4dg9uom`
+* `echo -n god94mug | md5sum`
