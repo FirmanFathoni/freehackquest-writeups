@@ -29,5 +29,5 @@ Author:
 	
 Solution:
 
-* Bruteforcing by the alphabet: 0123456789
+* Bruteforcing by the alphabet: `0123456789`
 * `echo -n 6719856100 | sha1sum`
