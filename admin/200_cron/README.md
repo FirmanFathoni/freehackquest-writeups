@@ -25,6 +25,6 @@ Author:
 
 	[keva] sea-kg
 
-Solve by author:
+Solution:
 
-* Open https://ru.wikipedia.org/wiki/Cron
+* https://ru.wikipedia.org/wiki/Cron
