@@ -32,45 +32,52 @@ Author:
 
 	[life] by_sm
 
-Solve by author:
+Solution:
 
-* first repalace all "lo..l" to code:
+* Replacing all `lo..l` to the code:
+       
+```
+#include<iostream>
+#include<cstdio>
 
-	#include<iostream>
-	#include<cstdio>
+char *ptr = new char[1024];
 
-	char *ptr = new char[1024];
+int main() {
+	// your code here
+	....
+}
+```
 
-	int main() {
-		// your code here
-		....
-	}
+* `g++ your_brain.cpp -o your_brain`
+* `./your_brain`
+* Now we have this python code:
 
-* Compile `g++ your_brain.cpp -o your_brain`
-* Run `./your_brain`
-* Your got python code:
+```
+iMporT Zlib, baSe64
 
-	iMporT Zlib, baSe64
+s = "eJzLzC3ILypRqMrJTNJRSEosTjUzUeDlKijKzCtRUI/MLy1yy0lMVwcA/4YMuQ=="
+c = bAsE64.b64dEcoDe(s)
+d = ZliB.dEcoMpReSS(c)
+```
 
-	s = "eJzLzC3ILypRqMrJTNJRSEosTjUzUeDlKijKzCtRUI/MLy1yy0lMVwcA/4YMuQ=="
-	c = bAsE64.b64dEcoDe(s)
-	d = ZliB.dEcoMpReSS(c)
+* Fixing the python script:
 
-* Fix python code
+```
+#!/usr/bin/python
 
-	#!/usr/bin/python
+import zlib, base64
 
-	import zlib, base64
+s = "eJzLzC3ILypRqMrJTNJRSEosTjUzUeDlKijKzCtRUI/MLy1yy0lMVwcA/4YMuQ=="
+c = base64.b64decode(s)
+d = zlib.decompress(c)
 
-	s = "eJzLzC3ILypRqMrJTNJRSEosTjUzUeDlKijKzCtRUI/MLy1yy0lMVwcA/4YMuQ=="
-	c = base64.b64decode(s)
-	d = zlib.decompress(c)
+print(d)
+```
 
-	print d
+* 
 
-* Run code and get print:
-
-	./your_brain_step2.py 
-	import zlib, base64 
-	print 'YourFlag'
-
+```
+./your_brain_step2.py 
+import zlib, base64 
+print('YourFlag')
+```
