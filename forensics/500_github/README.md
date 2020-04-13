@@ -27,4 +27,4 @@ Solution:
 
 	* Находим коммит https://github.com/sea-kg/fhq-2012/commit/796deeb71c66ad51aa13af079526482cb3bbee67
 	* Находим интересуемый файл fhq-2012/www/fhq/quests/web-50/index.php
-	* 639940ab0e04231361969fad716850c8
+	* Flag: 639940ab0e04231361969fad716850c8
