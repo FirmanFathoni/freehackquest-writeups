@@ -14,7 +14,7 @@ Description:
 
 	EN: Find the flag.
 	RU: Найдите флаг.
-	File: http://2015.freehackquest.com
+	URL: http://2015.freehackquest.com
 
 Answer:
 
